@@ -1,0 +1,131 @@
+﻿  BankSystem.cpp
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\BankSystem.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsString.h(113,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsString.h(203,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsString.h(233,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsString.h(260,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsString.h(300,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\Global.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUser.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsDate.h(103,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUser.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(49,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(50,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(57,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(70,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(348,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(372,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(394,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(439,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUtility.h(445,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUser.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsManageUsersScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsManageUsersScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsInputValidation.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsInputValidation.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsManageUsersScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsManageUsersScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsAddNewUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsAddNewUserScreen.h(78,17): warning C4129: 'L': unrecognized character escape sequence
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsManageUsersScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsDeleteUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsManageUsersScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUpdateUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsManageUsersScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsFindUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsClientListScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsClientListScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsBankClient.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsBankClient.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsBankClient.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsAddNewClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsAddNewClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsAddNewClientScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsAddNewClientScreen.h(44,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsDeleteClientScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsDeleteClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUpdetClientScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUpdetClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUpdetClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUpdetClientScreen.h(66,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUpdetClientScreen.h(98,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsFindClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsFindClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsFindClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsFindClientScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransactionsScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransactionsScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransactionsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsDepositScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsDepositScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsDepositScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransactionsScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsWithdrawScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsWithdrawScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsWithdrawScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransactionsScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTotalBalancesScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTotalBalancesScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTotalBalancesScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTotalBalancesScreen.h(56,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransactionsScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferScreen.h(65,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransactionsScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferLoginsScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferLogins.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferLogins.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferLogins.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferLogins.h(31,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferLogins.h(32,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsTransferLogins.h(33,75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginRegisterScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginRegisterScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginRegister.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginRegister.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginRegister.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsMainScreen.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyListScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyListScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrency.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrency.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrency.h(21,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsFindCurrency.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUpdateCurrencyRate.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUpdateCurrencyRate.h(65,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyExchangeScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyExchangeScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyExchangeScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyExchangeScreen.h(60,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyScreen.h(109,27): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsCurrencyScreen.h(112,43): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsLoginScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\BankSystem.cpp(10,38): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsBankClient.h(308): warning C4715: 'clsBankClient::Saev': not all control paths return a value
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsBankClient.h(374): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\BankSystem\clsUser.h(345): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\1\Desktop\Programing\OOP\Projacts\BankSystem\x64\Debug\BankSystem.exe
